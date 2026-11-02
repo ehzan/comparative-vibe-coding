@@ -1,2 +1,2 @@
-# comparative-vibe-coding
-Comparative Vibe Coding
+# Comparative Vibe Coding
+
